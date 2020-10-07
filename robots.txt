@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cobra-resistance.github.io/sitemap.xml
