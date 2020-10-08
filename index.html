@@ -1160,13 +1160,16 @@ body {
 				</div>
 			</div>
 		</footer>
-		<amp-analytics type="gtag" data-credentials="include">
+		<amp-analytics type="googleanalytics">
 			<script type="application/json">
 {
-	"vars" : {
-		"gtag_id": "<UA-5832619-8>",
-		"config" : {
-			"<UA-5832619-8>": { "groups": "default" }
+	"vars": {
+		"account": "UA-5832619-8"
+	},
+	"triggers": {
+		"trackPageview": {
+			"on": "visible",
+			"request": "pageview"
 		}
 	}
 }
