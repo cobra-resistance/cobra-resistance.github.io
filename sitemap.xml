@@ -1,11 +1,107 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>https://cobra-resistance.github.io/</loc>
 		<lastmod>2020-10-08</lastmod>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/media/ishtar-antares-aurora-2012.jpg</image:loc>
+			<image:title>Photo of Ishtar Antares from his Aurora2012 website</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/media/ishtar-antares-manual-for-preparedness.jpg</image:loc>
+			<image:title>Photo of Istar Antares from his book Aurora 2012</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/media/ishtar-antares-photo-linkedin.jpg</image:loc>
+			<image:title>Photo of Ishtar Antares from his LinkedIn profile</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/media/ishtar-antares-facebook-privacy.jpg</image:loc>
+			<image:title>Photo of Cobra from his Facebook profile</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/img/best-draco-reptillian-image-adromedacouncil.png</image:loc>
+			<image:title>Best Draco Reptillian image by AndromedaCouncil</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/img/evil-grey-extraterrestrials-entities-photo-leaked-from-cia.jpg</image:loc>
+			<image:title>CGI render of two evil grey extraterrestrials from Genesis 8 / Daz 3D app</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/img/draco-reptillian-youtube.png</image:loc>
+			<image:title>Alien from short sci-fi movie Closer aka Draco Reptillian alien</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.io/img/reviewer-silvia-suvadova-original.jpg</image:loc>
+			<image:title>Photo of Silvia Suvadova</image:title>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://cobra-resistance.github.io/404.html</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/aurora-2012-manual-for-preparedness.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/carol-guy-podcast-with-ishtar-antares-on-earth-angels-radio.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/cobra-exposed-renegade-of-light.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/cobra-ishtar-antares-birthday-facebook.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/cobra-reptillian-agent-the-idylwild-group.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/former-white-hat-on-cobra-identity.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/ishtar-antares-antiques.com-classifieds.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/ishtar-antares-aurora-2012.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/ishtar-antares-facebook-privacy.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/ishtar-antares-galactic-tantra-priest-of-sacred-sexuality.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/istar-antares-portal2012-websiteinformer-record.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/linkedin-ishtar-antares.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/new-energ-tachyon-attracta-business-directory.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/phone-number-database-slovenia-istar-antares.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/portal2012org-whois-record.pdf</loc>
+		<lastmod>2020-10-09</lastmod>
+	</url>
+	<url>
+		<loc>https://cobra-resistance.io/media/cobra-resistance-website.pdf</loc>
 		<lastmod>2020-10-09</lastmod>
 	</url>
 	<url>
