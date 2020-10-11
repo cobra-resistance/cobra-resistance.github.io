@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>https://cobra-resistance.github.io/</loc>
-		<lastmod>2020-10-10</lastmod>
+		<lastmod>2020-10-11</lastmod>
 		<image:image>
 			<image:loc>https://cobra-resistance.github.io/media/ishtar-antares-aurora-2012.jpg</image:loc>
 			<image:title>Photo of Ishtar Antares from his Aurora2012 website</image:title>
@@ -18,6 +18,10 @@
 		<image:image>
 			<image:loc>https://cobra-resistance.github.io/media/ishtar-antares-facebook-privacy.jpg</image:loc>
 			<image:title>Photo of Cobra from his Facebook profile</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://cobra-resistance.github.io/media/cobra-ishtar-antares-pyramids.jpg</image:loc>
+			<image:title>Photo of Ishtar Antares in near pyramids in Egypt</image:title>
 		</image:image>
 		<image:image>
 			<image:loc>https://cobra-resistance.github.io/img/best-draco-reptillian-image-adromedacouncil.png</image:loc>
