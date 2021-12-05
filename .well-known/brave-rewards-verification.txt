@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cobra-resistance.github.io
+Token: 130a971f0fc585344db0bc85b6af964614719dcb61eafa15109db782a6bc90ea
