@@ -249,9 +249,9 @@ img {
 		<meta http-equiv="Content-Security-Policy" content="
 			default-src 'self' ;
 			script-src 'self'
-				'nonce-IBC-google.analytics'
-				'nonce-IBC-yandex.metrika'
-				'nonce-IBC-pwa'
+				'nonce-IBC_google_analytics'
+				'nonce-IBC_yandex_metrika'
+				'nonce-IBC_pwa'
 				https://connect.facebook.net
 				https://*.facebook.com
 				https://www.googletagmanager.com
@@ -1047,7 +1047,7 @@ img {
 		
 		<!-- Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5832619-8"></script>
-		<script nonce="IBC-google.analytics">
+		<script nonce="IBC_google_analytics">
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
@@ -1055,7 +1055,7 @@ img {
 		</script>
 		
 		<!-- Yandex.Metrika counter -->
-		<script type="text/javascript" nonce="IBC-yandex.metrika">
+		<script type="text/javascript" nonce="IBC_yandex_metrika">
 		   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
 		   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
 		   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
@@ -1068,7 +1068,7 @@ img {
 		<noscript><div><img src="https://mc.yandex.ru/watch/68374153" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 		
 		<!-- PWA Service Worker Registration -->
-		<script nonce="IBC-pwa">
+		<script nonce="IBC_pwa">
 			if ('serviceWorker' in navigator) {
 				window.addEventListener('load', () => {
 					navigator.serviceWorker.register('https://cobra-resistance.github.io/pwa-serviceworker.js');
