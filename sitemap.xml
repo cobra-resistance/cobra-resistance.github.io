@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>https://cobra-resistance.github.io/</loc>
-		<lastmod>2023-11-11</lastmod>
+		<lastmod>2026-01-28</lastmod>
 		<image:image>
 			<image:loc>https://cobra-resistance.github.io/media/ishtar-antares-aurora-2012.jpg</image:loc>
 			<image:title>Photo of Ishtar Antares from his Aurora2012 website</image:title>
@@ -110,6 +110,6 @@
 	</url>
 	<url>
 		<loc>https://cobra-resistance.github.io/sitemap.xml</loc>
-		<lastmod>2023-11-11</lastmod>
+		<lastmod>2026-01-28</lastmod>
 	</url>
 </urlset>
